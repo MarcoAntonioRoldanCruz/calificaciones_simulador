@@ -2,13 +2,12 @@
 <html lang="en">
 
 <head>
-	<title>Seguimiento semestral</title>
+	<title>Calificaciones</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/style.css">
 	<script src="js/bootstrap.bundle.min.js"></script>
-	<!-- <script src="js/jquery-3.1.1.min.js"></script> -->
 	<script src="js/jquery-3.6.0.min.js"></script>
 </head>
 
@@ -44,17 +43,8 @@
 						<button type="button" id="login_ss" class="btn btn-primary">Entrar</button>
 					</div>
 				</form>
-				<!--
-				<div class="alert alert-info" role="alert">
-					Tenemos objetivos claros.
-					<ul>
-						<li>Realizar el documento FAC-53 con mayor eficacia.</li>
-						<li>Obtener información detallada y reportes.</li>
-						<li>Facilitar procesos en el seguimiento semestral.</li>
-					</ul> 
-				</div> -->
+				
 				<div class="text-center">
-					<!-- <img src="img/coyote_gris-removebg-preview.png" class="w-75"> -->
 					<img src="img/Fati_Portada.jpeg" alt="Fátima Castulo León" class="rounded-circle yo">
 				</div>
 				<br>
